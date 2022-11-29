@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch=".." review="" />
+  <default revision="main" remote="origin" sync-j="1" />
+  <project name=".github.git" path="github" />
+  <project name="email-plugin.git" path="email-plugin" />
+  <project name="gerrit-plugin.git" path="gerrit-plugin" />
+</manifest>
