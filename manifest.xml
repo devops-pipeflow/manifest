@@ -3,6 +3,7 @@
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
   <project name=".github.git" path="github" />
+  <project name="deploy.git" path="deploy" />
   <project name="email-plugin.git" path="email-plugin" />
   <project name="gerrit-plugin.git" path="gerrit-plugin" />
 </manifest>
