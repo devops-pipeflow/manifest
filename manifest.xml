@@ -6,4 +6,5 @@
   <project name="deploy.git" path="deploy" />
   <project name="email-plugin.git" path="email-plugin" />
   <project name="gerrit-plugin.git" path="gerrit-plugin" />
+  <project name="insight-plugin.git" path="insight-plugin" />
 </manifest>
